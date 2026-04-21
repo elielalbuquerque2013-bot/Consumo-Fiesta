@@ -1,0 +1,6 @@
+{
+  "name": "Fiesta Fuel Master",
+  "description": "Calculadora de consumo inteligente otimizada para o Ford New Fiesta 2014, comparando custos de Etanol e Gasolina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
